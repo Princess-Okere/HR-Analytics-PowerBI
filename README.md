@@ -115,13 +115,13 @@ performance analysis.
 Production accounts for 67.2% of total headcount, functioning as the
 organization's primary labor force.
 
-![Headcount by Department chart](images/finding-headcount-by-department.png)
+![Headcount by Department chart](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/8423a0794ef189bc46dbbc86fef8c346530ea7a5/Headcount%20by%20Department%20chart.png)
 
 **Turnover scale**
 Overall attrition sits at 33.4%, with voluntary departures (28.3%) far
 outweighing involuntary ones (4.5%).
 
-![Attrition Rate KPI cards](images/finding-attrition-kpis.png)
+![Attrition Rate KPI cards](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/8423a0794ef189bc46dbbc86fef8c346530ea7a5/Attrition%20Rate%20KPI%20cards.png)
 
 **Early-tenure risk**
 Attrition is heavily concentrated in the first 1–3 years of tenure.
