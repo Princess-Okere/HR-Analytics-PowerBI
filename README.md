@@ -126,7 +126,7 @@ outweighing involuntary ones (4.5%).
 **Early-tenure risk**
 Attrition is heavily concentrated in the first 1–3 years of tenure.
 
-![Attrition Rate by Tenure Band chart](images/finding-attrition-by-tenure-band.png)
+![Attrition Rate by Tenure Band chart](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/2b41a709a9fa1a92d3196f86b44f1799cd752682/Attrition%20Rate%20by%20Tenure%20Band%20chart.png)
 
 **Department and manager hotspots**
 Production (39.7%) and Software Engineering (36.4%) show the highest
@@ -134,7 +134,8 @@ departmental attrition; at the manager level, two managers with substantial
 teams (21 direct reports each) show 61.9% attrition — the strongest, most
 credible hotspot signal in the data.
 
-![Attrition Rate by Department chart](images/finding-attrition-by-department.png)
+![Attrition Rate by Department chart](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/2b41a709a9fa1a92d3196f86b44f1799cd752682/Attrition%20Rate%20by%20Department%20chart.png)
+
 ![Manager attrition table](images/finding-manager-attrition-table.png)
 
 **Recruitment source effectiveness**
