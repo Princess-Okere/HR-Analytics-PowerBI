@@ -107,7 +107,7 @@ manager hotspots, termination trend.
 Active vs. terminated comparisons, recruitment source effectiveness, salary vs.
 performance analysis.
 
-![Engagement, Performance and Recruitment dashboard page](images/page3-engagement-performance.png)
+![Engagement, Performance and Recruitment dashboard page](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/64890f3a433a59345e9d1c8e4a83032c0d593371/Engagement%2C%20Performance%20and%20Recruitment%20dashboard%20page.png)
 
 ## 7. Key Findings
 
