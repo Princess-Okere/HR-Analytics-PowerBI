@@ -95,7 +95,7 @@ Performance Score, State) plus a calculated Date table for time intelligence.
 ### 6.1 Workforce Overview
 Headcount, composition, hiring trend, and pay equity snapshot.
 
-![Workforce Overview dashboard page](images/page1-workforce-overview.png)
+![Workforce Overview dashboard page](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/f099538d267a01cb7a1ec776ebe5af480d8a9c1b/Workforce%20Overview%20dashboard%20page.png)
 
 ### 6.2 Turnover & Retention
 Attrition rate, voluntary/involuntary split, tenure-band risk, department and
