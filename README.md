@@ -16,7 +16,7 @@ HR analytics project analyzing workforce composition, employee turnover, retenti
 8. [Recommendations](#8-recommendations)
 9. [Limitations](#9-limitations)
 10. [Skills Demonstrated](#10-skills-demonstrated)
-11. [Contact / Links](#11-contact--links)
+11. [Files](#11-files)
 
 12. # HR Analytics Dashboard — Workforce, Turnover & Retention Analysis
 
@@ -190,8 +190,9 @@ is a composition effect, not a performance-linked pay gap.
 - Root-cause analytical reasoning: identifying and correcting confounding
   variables (e.g., department/role composition effects on salary)
 
-## 11. Contact / Links
+## 11. Files
 
-- LinkedIn: [add link]
-- Portfolio: [add link]
-- Live Power BI report: [add link, if published]
+- Excel File: [add link]
+- PowerBi File (pbix): [add link]
+- PowerBi File (pdf): [add link, if published]
+- Business Report: []
