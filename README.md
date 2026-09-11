@@ -101,7 +101,7 @@ Headcount, composition, hiring trend, and pay equity snapshot.
 Attrition rate, voluntary/involuntary split, tenure-band risk, department and
 manager hotspots, termination trend.
 
-![Turnover and Retention dashboard page](images/page2-turnover-retention.png)
+![Turnover and Retention dashboard page](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/379a63a5bd6052fef3477967cab46884e5feae99/Turnover%20and%20Retention%20dashboard%20page.png)
 
 ### 6.3 Engagement, Performance & Recruitment
 Active vs. terminated comparisons, recruitment source effectiveness, salary vs.
