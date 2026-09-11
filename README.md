@@ -88,7 +88,7 @@ The model follows a star-schema design: a central `Employees` table connected to
 six dimension tables (Department, Position, Manager, Employment Status,
 Performance Score, State) plus a calculated Date table for time intelligence.
 
-![Model view showing star schema relationships](images/model-view.png)
+![Model view showing star schema relationships](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/287acebe9066130b1ed426abea7d01f4fb6a03fd/Model%20view%20showing%20star%20schema%20relationships.png)
 
 ## 6. Dashboard Walkthrough
 
