@@ -18,7 +18,7 @@ HR analytics project analyzing workforce composition, employee turnover, retenti
 10. [Skills Demonstrated](#10-skills-demonstrated)
 11. [Files](#11-files)
 
-12. # HR Analytics Dashboard — Workforce, Turnover & Retention Analysis
+ # HR Analytics Dashboard — Workforce, Turnover & Retention Analysis
 
 ## 1. Project Overview
 
