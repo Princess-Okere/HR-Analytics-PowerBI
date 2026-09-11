@@ -194,5 +194,5 @@ is a composition effect, not a performance-linked pay gap.
 
 - [Excel File](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/342680085935cce483f3085207c30615d17ccf98/HR%20Analytics.xlsx)
 - [PowerBi File (pbix)](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/342680085935cce483f3085207c30615d17ccf98/Hr_Project.pbix)
-- [PowerBi File (pdf)](add link, if published)
-- Business Report: []
+- [PowerBi File (pdf)](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/6115a26b4ddf237cf666a6dfd0e28a5748014d10/Hr_Project%20pdf)
+- [Business Report](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/6115a26b4ddf237cf666a6dfd0e28a5748014d10/Hr_project%20%20business%20report%20pdf.pdf)
