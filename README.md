@@ -111,24 +111,24 @@ performance analysis.
 
 ## 7. Key Findings
 
-**Workforce composition**
+**Workforce composition:**
 Production accounts for 67.2% of total headcount, functioning as the
 organization's primary labor force.
 
 ![Headcount by Department chart](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/8423a0794ef189bc46dbbc86fef8c346530ea7a5/Headcount%20by%20Department%20chart.png)
 
-**Turnover scale**
+**Turnover scale:**
 Overall attrition sits at 33.4%, with voluntary departures (28.3%) far
 outweighing involuntary ones (4.5%).
 
 ![Attrition Rate KPI cards](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/8423a0794ef189bc46dbbc86fef8c346530ea7a5/Attrition%20Rate%20KPI%20cards.png)
 
-**Early-tenure risk**
+**Early-tenure risk:**
 Attrition is heavily concentrated in the first 1–3 years of tenure.
 
 ![Attrition Rate by Tenure Band chart](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/2b41a709a9fa1a92d3196f86b44f1799cd752682/Attrition%20Rate%20by%20Tenure%20Band%20chart.png)
 
-**Department and manager hotspots**
+**Department and manager hotspots:**
 Production (39.7%) and Software Engineering (36.4%) show the highest
 departmental attrition; at the manager level, two managers with substantial
 teams (21 direct reports each) show 61.9% attrition — the strongest, most
@@ -136,16 +136,16 @@ credible hotspot signal in the data.
 
 ![Attrition Rate by Department chart](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/2b41a709a9fa1a92d3196f86b44f1799cd752682/Attrition%20Rate%20by%20Department%20chart.png)
 
-![Manager attrition table](images/finding-manager-attrition-table.png)
+![Manager attrition table](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/4852efd7fd18d7c0c964b2208e7bc04b2e60975d/Manager%20attrition%20table.png)
 
-**Recruitment source effectiveness**
+**Recruitment source effectiveness:**
 Website and Employee Referral show the strongest retention profile; Google
 Search shows comparable engagement scores but more than triple the attrition
 rate of the stronger channels.
 
-![Recruitment source effectiveness table](images/finding-recruitment-source-table.png)
+![Recruitment source effectiveness table](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/4852efd7fd18d7c0c964b2208e7bc04b2e60975d/Recruitment%20source%20effectiveness%20table.png)
 
-**Performance and compensation**
+**Performance and compensation:**
 Salary tracks job role far more closely than performance rating — isolating a
 single role (Production Technician I) shows near-identical pay across all four
 performance bands, indicating the aggregate "lowest-paid = Fully Meets" pattern
