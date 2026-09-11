@@ -151,7 +151,7 @@ single role (Production Technician I) shows near-identical pay across all four
 performance bands, indicating the aggregate "lowest-paid = Fully Meets" pattern
 is a composition effect, not a performance-linked pay gap.
 
-![Average Salary by Performance Rating chart](images/finding-salary-by-performance.png)
+![Average Salary by Performance Rating chart](https://github.com/Princess-Okere/HR-Analytics-PowerBI/blob/e01d581d2b609872a7d105fb345ccd40c14210fb/Average%20Salary%20by%20Performance%20Rating%20chart.png)
 
 ## 8. Recommendations
 
